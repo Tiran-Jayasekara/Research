@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sign Recognition</string>
+    <string name="combine">combine_letter_button</string>
+</resources>
